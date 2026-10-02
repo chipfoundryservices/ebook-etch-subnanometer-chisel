@@ -1,6 +1,6 @@
 # Preface: The Physics of Economic Moats
 
-## By Charlie Munger's Latticework Principles
+## First-Principles Latticework & Economic Moats
 
 ---
 
@@ -123,7 +123,7 @@ Welcome to the sub-nanometer chisel.
 
 ---
 
-**Charlie Munger's Latticework Applied to Semiconductor Capital Equipment**
+**Multidisciplinary Latticework Applied to Semiconductor Capital Equipment**
 
 *"You must avoid the abuse of what you know. To say, more accurately, you must avoid the discomfort of seeing the limits of what you know."*
 

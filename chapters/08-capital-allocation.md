@@ -196,7 +196,7 @@ Fabless companies (Apple, Nvidia, Qualcomm) design chips but do not own fabs. Th
 
 ---
 
-## 8.6 Charlie Munger's Capital Allocation Principles Applied to Etch
+## 8.6 Capital Allocation Principles Applied to Etch
 
 ### 8.6.1 Economic Moat Hierarchy
 

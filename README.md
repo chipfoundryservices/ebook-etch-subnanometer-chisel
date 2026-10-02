@@ -9,7 +9,7 @@
 
 *Etch: The Sub-Nanometer Chisel* is a comprehensive exploration of plasma-based reactive ion etching (RIE), atomic layer etch (ALE), and the physics of sub-nanometer semiconductor device fabrication. This book bridges fundamental plasma physics with industrial equipment engineering and economic moat analysis, revealing why companies like **Lam Research** and **Applied Materials** command durable competitive advantages worth tens of billions of dollars.
 
-Following the Charlie Munger lattice-work model of thinking, each chapter combines:
+Following a multidisciplinary lattice-work model of thinking, each chapter combines:
 - **Physical first principles** (plasma dynamics, ion sheath physics, radical chemistry)
 - **Industrial process secrets** (chamber design, selectivity mechanisms, defect avoidance)
 - **Economic moats** (equipment capex cycles, switching costs, gross margin durability)
@@ -56,7 +56,7 @@ This book is designed for:
 ```
 ebook-etch-subnanometer-chisel/
 ├── README.md                          (this file)
-├── PREFACE.md                         (Charlie Munger foreword & book philosophy)
+├── PREFACE.md                         (Preface: Foundational Philosophy)
 ├── chapters/
 │   ├── 01-silicon-sculptor.md
 │   ├── 02-plasma-physics.md
